@@ -61,19 +61,18 @@ I'm a **Java Backend Developer** & **DevOps Enthusiast** from 🇮🇳 India, pa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dayeshlate&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dayeshlate&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div> -->
+</div> 
 
 ---
 
-<!-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dayeshlate&theme=darkhub&column=6&margin-w=10">
 
 </div>
 
---- -->
 
 ## 📈 Activity Graph
 <div align="center">
