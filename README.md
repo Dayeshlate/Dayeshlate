@@ -53,7 +53,7 @@ I'm a **Java Backend Developer** & **DevOps Enthusiast** from 🇮🇳 India, pa
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -78,7 +78,7 @@ I'm a **Java Backend Developer** & **DevOps Enthusiast** from 🇮🇳 India, pa
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dayeshlate&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
-
+-->
 ---
 
 ## 🌐 Connect With Me
