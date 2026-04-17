@@ -23,7 +23,7 @@ I'm a **Java Backend Developer** & **DevOps Enthusiast** from 🇮🇳 India, pa
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
-<div align="left">
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/960px-Spring_Boot.svg.png" alt="spring boot" width="35" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="40"/>
