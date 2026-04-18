@@ -32,7 +32,7 @@ I'm a **Java Backend Developer** & **DevOps Enthusiast** from 🇮🇳 India, pa
 </div>
 
 ### **Cloud & DevOps**
-<p align="left">
+<div align="left">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
@@ -40,7 +40,7 @@ I'm a **Java Backend Developer** & **DevOps Enthusiast** from 🇮🇳 India, pa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-</p>
+</div>
 
 ### **Databases & Monitoring**
 <p align="left">
